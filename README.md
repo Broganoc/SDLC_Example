@@ -1,10 +1,21 @@
-# Project Workflow
+# Tutoring Appointment System
 
-## Purpose
-This repository documents the tutoring appointment system through the SDLC.
+## Project Purpose
+Design a system that helps students find and book available tutoring sessions.
 
-## File Conventions
-Use descriptive lowercase Markdown file names with hyphens. Keep diagrams in analysis/process-models.md or link image files from the relevant document.
+## Current SDLC Phase
+Analysis
 
-## Review Steps
-Update the relevant phase document, commit with a descriptive message, and check that README.md links still work.
+## Project Documents
+- [Project Charter](planning/project-charter.md)
+- [Stakeholder Register](analysis/stakeholder-register.md)
+- [Requirements](analysis/requirements.md)
+- [Process Models](analysis/process-models.md)
+- [Data Model](design/data-model.md)
+- [Interface Design](design/interface-design.md)
+- [Test Plan](testing/test-plan.md)
+- [Deployment Plan](deployment/deployment-plan.md)
+- [Maintenance Plan](maintenance/maintenance-plan.md)
+
+## System Summary
+Students search for an open tutoring time, book it, and receive a confirmation. Tutors and staff manage availability.
